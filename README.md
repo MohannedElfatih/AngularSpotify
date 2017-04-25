@@ -1,6 +1,6 @@
 # Angularspotify
 
-This is an Angular 2 application that uses the Spotify Web API to find artists, display albums, and play preview tracks
+An Angular 2 application that uses the Spotify Web API to find artists, display albums, and play preview tracks
 
 ## Development server
 
