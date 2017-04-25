@@ -1,6 +1,6 @@
 # Angularspotify
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
+This is an Angular 2 application that uses the Spotify Web API to find artists, display albums, and play preview tracks
 
 ## Development server
 
